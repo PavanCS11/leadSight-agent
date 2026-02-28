@@ -1,0 +1,32 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Excel files
+*.xlsx
+
+# Zip files
+*.zip
+
+# Output files
+output.xlsx
+# Local virtual environments
+dataExtractor_integrated/
+dataExtract
+.venv/
+venv/
+
+
+
+# Playwright / browser caches (if any)
+playwright/
+**/playwright-report/
+**/test-results/
+
+# Temporary and upload/output artifacts
+uploads/
+*.log
+
+
